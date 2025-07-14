@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lindsay Skakun-Ward",
 	"version": "1.0.0",
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
@@ -11,7 +12,6 @@
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"license": "ISC",
-	"author": "Lindsay Skakun-Ward",
 	"type": "commonjs",
 	"main": "server.js",
 	"scripts": {
